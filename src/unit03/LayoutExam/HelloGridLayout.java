@@ -9,6 +9,9 @@ import javax.swing.JPanel;
 
 public class HelloGridLayout extends JFrame{
 		 HelloGridLayout(){
+			 
+			 
+			 //소스를 변경함
 			JPanel p=new JPanel();
 			p.setBackground(Color.black);
 			add(p);
@@ -42,6 +45,8 @@ public class HelloGridLayout extends JFrame{
 	public static void main(String[] args) {
 		new HelloGridLayout();
 
-	}
+	}//https://github.com/lsb0120/JavaSwing_20613.git
+	//NewToken20613
+	//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
 
 }
