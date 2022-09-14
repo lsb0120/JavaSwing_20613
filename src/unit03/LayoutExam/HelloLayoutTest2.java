@@ -33,6 +33,7 @@ public class HelloLayoutTest2 extends JFrame{
 		 p3.add(b5);
 		 p3.add(b6);
 		 
+		 /// 변경점 저장
 		 add(p1,BorderLayout.NORTH );
 		 add(p2,BorderLayout.CENTER);
 		 add(p3,BorderLayout.SOUTH);
